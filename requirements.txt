@@ -1,0 +1,10 @@
+nltk
+numpy
+pandas
+matplotlib
+seaborn
+wordcloud
+torch
+torchvision
+sklearn
+xgboost
